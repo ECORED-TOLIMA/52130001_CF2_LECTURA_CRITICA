@@ -14,16 +14,16 @@
     .row.justify-content-center
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/1.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema1/1.svg')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
               p.text-center.mb-0 Identificar la información clave y las ideas principales del texto.
-      .col-10.col-md-6.col-lg-4(data-aos="fade-left")
+      .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-left")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/2.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema1/2.svg')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -31,9 +31,9 @@
                   .py-2.px-3
               p.text-center.mb-0 Relacionar estas ideas para entender cómo se conectan y complementan.
 
-      .col-10.col-md-6.col-lg-4(data-aos="fade-left")
+      .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="fade-left")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/3.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema1/3.svg')
           .tarjeta.color-primario.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -51,7 +51,7 @@
       .col-12
         .p-5
           .row.align-items-center
-            .col-lg-4
+            .col-lg-4.d-lg-block.d-none
               figure
                 img(src='@/assets/curso/tema1/4.png', alt='Persona leyendo libro', style='width: 396px').m-auto
 
@@ -317,29 +317,30 @@
     // Segunda fila - 4 tarjetas azules con avatar
     .row.justify-content-center
       .col-lg-3.col-md-6.mb-4.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/tema1/19.svg' alt='AvatarTop')
+        .tarjeta-avatar.h-100
+          img(src='@/assets/curso/tema1/19.svg')
           .tarjeta.bg-2.shadow
             .p-4.pt-5
               p.text-center.mb-0 Dividir el tema por subtemas o partes diferentes.
 
       .col-lg-3.col-md-6.mb-4.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/tema1/20.svg' alt='AvatarTop')
+        .tarjeta-avatar.h-100
+          img(src='@/assets/curso/tema1/20.svg')
           .tarjeta.bg-2.shadow
             .p-4.pt-5
-              p.text-center.mb-0 Utilizar una secuencia temporal.
+              p.text-center.mb-0 Utilizar una secuencia temporal. 
+              p(style="color: #A4C2FF") Utilizar una secuencia temporal. Utilizar una secuencia temporal. 
 
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/21.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema1/21.svg')
           .tarjeta.bg-2.shadow
             .p-4.pt-5
               p.text-center.mb-0 Utilizar un procedimiento inductivo, es decir, de un hecho experimental, llegar a uno general y exponer una ley.
 
       .col-lg-3.col-md-6
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/22.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema1/22.svg')
           .tarjeta.bg-2.shadow
             .p-4.pt-5
               p.text-center.mb-0 Utilizar un procedimiento deductivo, es decir, de una norma o definición añadir argumentos que lo apoyan.
@@ -367,7 +368,7 @@
             p.mb-0 El punto y coma (;) equivale a un punto, pero su relación con la oración anterior es más estrecha.
 
       .col-lg-4
-        figure
+        figure.d-lg-block.d-none
           img(src='@/assets/curso/tema1/23.png', alt='Mano escribiendo en documento', style='width: 100%')
 
 
