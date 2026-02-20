@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="flip-up")
         span
           i.fas.fa-info
       h1 Introducción
@@ -19,9 +19,9 @@
       .col-12 
         .p-5 
           .row.align-items-start.mt-4
-            .col-auto
+            .col-lg-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/intro/2.svg', alt='Icono de video', style='width: 80px')
+                img(src='@/assets/curso/intro/2.svg', alt='Icono de video', style='width: 100px').m-auto
             
             .col
               p Se presentan estrategias para comprender textos en tres etapas: entender lo que dice directamente, descubrir la información que no está escrita, pero se puede deducir, y reflexionar de manera crítica para relacionar el planteamiento de estas habilidades favorece una lectura activa que va más allá de un simple reconocimiento de palabras y que resulta en la vida académica, laboral y cotidiana.
@@ -33,6 +33,7 @@
               figure
                 .video
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 
 
 </template>

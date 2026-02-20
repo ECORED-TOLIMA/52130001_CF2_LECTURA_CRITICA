@@ -85,6 +85,10 @@ figcaption
     background-image: url(../assets/curso/tema2/bg2.png)
     background-repeat: no-repeat
 
+    @media (max-width: 768px) 
+      background-image: none
+      background-color: #F8DFFF
+
   &-15
     background-image: url(../assets/curso/tema6/bg4.png)
     background-repeat: no-repeat
@@ -111,6 +115,16 @@ figcaption
   &-20
     background-image: url(../assets/curso/tema5/bg1.png)
     background-repeat: no-repeat
+
+    @media (max-width: 768px) 
+      background-image: none
+      background-color: #F8DFFF
+
+  &-21
+    background-color: #FEEEB6
+
+  &-21:hover
+     background-color: #FDF4FF !important
 
   
 .titulo-tres
@@ -283,3 +297,17 @@ figcaption
 
 .slyder-f__btn i 
   color: #FCC510
+
+.tarjeta-audio.color-acento-botones .tarjeta-audio__texto 
+    color: black
+
+.lista-ol--cuadro li 
+  display: flex
+  align-items: flex-start
+
+.lista-ol--cuadro__vineta 
+  margin-right: 12px
+  flex-shrink: 0
+
+.lista-ol--cuadro .contenido 
+  flex: 1;

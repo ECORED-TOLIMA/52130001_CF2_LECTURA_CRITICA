@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="flip-up")
         span 1
       h1 Técnicas de comprensión lectora
 
@@ -115,6 +115,7 @@
             p.mb-0 Un resumen debe tener una extensión aproximada de una cuarta parte del texto original.
 
           li.d-flex.align-items-start
+            span.icono-img
             p.mb-0 Todas las ideas deberán estar completamente integradas, enlazadas y relacionadas. No puede ser una sucesión de ideas ni una simple enumeración.
 
           li.d-flex.align-items-start
@@ -225,7 +226,7 @@
                       p.mb-0 Incentivar el pensamiento relacionando la información que se recibe al consultar el texto con
 
                 .col-lg-5
-                  figure
+                  figure.d-lg-block.d-none
                     img(src='@/assets/curso/tema1/15.png', alt='Tres personas estudiando con laptop', style='width: 371px')
 
 
@@ -283,10 +284,9 @@
 
     p Los textos presentan señales que indican cómo está organizada la información y cómo se relacionan las ideas entre sí. Reconocer estas señales permite identificar la estructura del texto y facilita la comprensión de su contenido. Estas señales son:
 
-    // Primera fila - 3 tarjetas amarillas
     .row.justify-content-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-18
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-21
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
@@ -295,7 +295,7 @@
           h4.mb-0 Estructura lógica
 
       .col-lg-4.mb-4.mb-lg-0
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-18
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-21
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
@@ -304,7 +304,7 @@
           h4.mb-0 Ideas generales
 
       .col-lg-4
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-18
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-21
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
@@ -376,7 +376,7 @@
 
     .row.mb-5
       .col-lg-3.mb-4.mb-lg-0
-        figure
+        figure.d-lg-block.d-none
           img(src='@/assets/curso/tema1/24.png', alt='Mujer leyendo sentada', style='width: 292px')
 
       .col-lg-9
@@ -385,9 +385,9 @@
         p.mb-4 La idea principal es lo fundamental de la materia expuesta.
 
         .row.align-items-start.bg-7.p-3.bg-r8
-          .col-auto
+          .col-lg-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/tema1/25.svg', alt='Icono puzzle', style='width: 80px')
+              img(src='@/assets/curso/tema1/25.svg', alt='Icono puzzle', style='width: 100px').m-auto
           .col
             p.mb-0 Para identificar correctamente las ideas principales y secundarias, es fundamental conocer dos aspectos clave: la ubicación de la idea principal dentro del párrafo y las características de las frases secundarias que la complementan. A continuación, se desarrollan estos dos elementos:
 
@@ -409,21 +409,21 @@
                   p.mb-0
                     strong Al inicio del párrafo
 
-              .col-lg-4
+              .col-lg-4.mt-lg-0.mt-4
                 .crd.bg-7.bg-r8.p-4.text-center.h100
                   figure.mb-2
                     img(src='@/assets/curso/tema1/27.svg', alt='Parte central', style='width: 80px').m-auto
                   p.mb-0
                     strong En la parte central del párrafo
 
-              .col-lg-4
+              .col-lg-4.mt-lg-0.mt-4
                 .crd.bg-7.bg-r8.p-4.text-center.h-100
                   figure.mb-2
                     img(src='@/assets/curso/tema1/28.svg', alt='Final párrafo', style='width: 80px').m-auto
                   p.mb-0
                     strong Al final del párrafo
 
-          .col-lg-5
+          .col-lg-5.mt-lg-0.mt-4
             .tarjeta.bg-8.p-4
               p.mb-0 Es fundamental comprender que cada párrafo constituye una unidad de pensamiento completa. En él, el autor desarrolla una idea específica mediante una o varias oraciones relacionadas entre sí. Los párrafos inician con sangría y finalizan con punto aparte.
 
@@ -548,7 +548,7 @@
             p.mb-0 Subrayar las ideas que correspondan a las preguntas clave para recuperar toda la información importante (antecedentes, características, definiciones, acciones, funciones, procesos, etc.)
 
       .col-lg-4
-        figure
+        figure.d-lg-block.d-none
           img(src='@/assets/curso/tema1/32.png', alt='Texto subrayado con marcador naranja', style='width: 292px')
 
 

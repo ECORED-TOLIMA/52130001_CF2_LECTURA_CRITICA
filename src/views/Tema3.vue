@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="flip-up")
         span 3
       h1 Comprensión específica de textos
 
@@ -14,7 +14,7 @@
         p Entender todos estos elementos del texto permite al lector llegar a una idea completa de lo que el autor ha escrito. Cuando el lector se encuentra con una oración que no comprende, se concentra conscientemente en utilizar
 
       .col-lg-4
-        figure
+        figure.d-none.d-lg-block
           img(src='@/assets/curso/tema3/1.png', alt='Dos mujeres leyendo libros', style='width: 396px')
 
     .row.mt-4.align-items-center
@@ -35,13 +35,13 @@
       .col-lg-10
         .row.align-items-center.bg-2.p-4.bg-r8
           .col-auto
-            figure
+            figure.d-none.d-lg-block
               img(src='@/assets/curso/tema3/4.svg', alt='Icono libro', style='width: 80px')
           .col
             p.mb-0
               strong Es posible que un lector no comprenda el significado de una oración. Sin embargo, luego de aplicar estrategias para comprenderla, puede darse cuenta de que dentro de esa oración hay una palabra que no comprende; entonces, pasa a utilizar una estrategia para aproximarse a su significado. Cuando la entiende, vuelve a intentar comprender la oración que le causó dificultad.
           .col-auto
-            figure
+            figure.d-none.d-lg-block
               img(src='@/assets/curso/tema3/4.svg', alt='Icono libro', style='width: 80px')
 
 
@@ -88,7 +88,7 @@
 
     .row.mt-4
       .col-lg-3.mb-4.mb-lg-0
-        figure
+        figure.d-none.d-lg-block
           img(src='@/assets/curso/tema3/9.png', alt='Hombre leyendo tablet', style='width: 292')
 
       .col-lg-9
@@ -98,13 +98,13 @@
 
         .tarjeta.bg-5.p-4
           .row.align-items-start
-            .col-auto
+            .col-lg-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/tema3/10.svg', alt='Icono libro', style='width: 50px')
+                img(src='@/assets/curso/tema3/10.svg', alt='Icono libro', style='width: 100px').m-auto
             .col
               p.mb-0 Un texto tiene una estructura formal (que son las partes que tiene según el tipo de texto). El texto también tiene una estructura de ideas (que está formada por el plan de ideas que desarrolla el texto, es decir, su contenido). La estructura de ideas es lo que se dice en cada parte del texto (en cada parte de la estructura formal). Un lector debe tener en cuenta cómo está organizado el texto, es decir, cómo está compuesto. Conocer esto lo orienta para poner en juego las concepciones sobre qué tipo de texto es, qué intenciones puede tener, qué función pretende cumplir y qué puede esperar de ese tipo de texto. Un lector también debe desentrañar la estructura de ideas del texto, es decir, sus contenidos.
 
-    p.mb-4 Para lograr la comprensión específica del texto, el lector debe desarrollar estrategias diferenciadas según el nivel de análisis requerido:
+    p.mt-4 Para lograr la comprensión específica del texto, el lector debe desarrollar estrategias diferenciadas según el nivel de análisis requerido:
 
     .row.justify-content-center
       .col-lg-10

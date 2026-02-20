@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="flip-up")
         span 6
       h1 Aplicación de técnicas de lectura
 
@@ -173,6 +173,23 @@
           img(src='@/assets/curso/tema6/12.svg', alt='', style="width: 390px").m-auto
       .col-lg-8
         p Una vez extraídas las ideas principales del texto, el proceso de comprensión lectora requiere aplicar estrategias que permitan organizar la información de manera coherente y verificar la efectividad de la comprensión alcanzada. A continuación, se presenta un podcast que expone las técnicas para ordenar las ideas más importantes de un texto, mediante un proceso sistemático de revisión, agrupación y organización lógica de la información identificada durante la lectura.
+
+
+    .row.justify-content-center.mt-4
+      .col-lg-10
+        .row.bg-2
+          figure
+            img(src='@/assets/curso/tema6/13.svg', style="width: 1020px").m-auto          
+          .row.justify-content-center.g-0.p-4.bg-8
+            .col-lg-10
+              .tarjeta.bg-8.rounded-0.h-100
+                .tarjeta.bg-white.p-4
+                  TarjetaAudio.color-acento-botones.bg-white.mb-3(
+                  texto="Pódcast"
+                  :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                )
+
+
 
 
 </template>

@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="flip-up")
         span 5
       h1 Competencias de lectura crítica
 
@@ -28,20 +28,20 @@
               p.mb-0 Reflexionar a partir de un texto y evaluar su contenido.
 
           .row.align-items-start.bg-7
-            .col-auto
+            .col-lg-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/tema5/1.svg', alt='', style='width: 80px')
+                img(src='@/assets/curso/tema5/1.svg', alt='', style='width: 100px').m-auto
             .col
               p.mb-0 Estas competencias representan, de manera general, las habilidades cognitivas necesarias para ser un lector crítico. Las dos primeras se refieren a la comprensión del contenido de un texto, ya sea local o global; la tercera corresponde a la aproximación propiamente crítica.
 
       .col-lg-3
-        figure
-          img(src='@/assets/curso/tema5/2.png', alt='Libro con letras', style='width: 292')
+        figure.d-none.d-lg-block
+          img(src='@/assets/curso/tema5/2.png', alt='Libro con letras', style='width: 292px')
 
     .row.mb-5
       .col-lg-3.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/tema5/3.svg', alt='Ilustración máquina de escribir', style='width: 292px')
+          img(src='@/assets/curso/tema5/3.svg', alt='Ilustración máquina de escribir', style='width: 292px').m-auto
 
       .col-lg-9
         .tarjeta.brd--gris.p-4
@@ -76,7 +76,7 @@
                   p.text-center.mb-0 El estudiante identifica los eventos narrados de manera explícita en un texto literario, descriptivo, caricatura o cómic.
 
       .col-lg-4
-        figure
+        figure.d-none.d-lg-block
           img(src='@/assets/curso/tema5/6.png', alt='Persona leyendo tablet', style='width: 396px')
 
 
@@ -96,11 +96,11 @@
       .col-lg-10
         .row.align-items-center.bg-20.bg-r8.p-4
           .col-lg-2.mb-4.mb-lg-0
-            figure
+            figure.d-none.d-lg-block
               img(src='@/assets/curso/tema5/8.svg', alt='Ilustración estudiante', style='width: 170px')
 
           .col-lg-10
-            ul.lista-ul.mb-0.bg-4.p-4.bg-r8
+            ul.lista-ul.mb-0.bg-4.p-lg-4.bg-r8
               li
                 span.icono-img
                 p.mb-0 El estudiante comprende la estructura formal de un texto y la función de sus partes.

@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="flip-up")
         span 2
       h1 Comprensión global de textos
     
@@ -166,7 +166,7 @@
                   p.text-center.mb-0 Tiene como propósito informar algo al receptor.
 
       .col-lg-4
-        figure
+        figure.d-none.d-lg-block
           img(src='@/assets/curso/tema2/12.png', alt='Persona leyendo tablet', style='width: 291px')
 
 

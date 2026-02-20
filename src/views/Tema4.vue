@@ -3,7 +3,7 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
-      .titulo-principal__numero
+      .titulo-principal__numero(data-aos="flip-up")
         span 4
       h1 Análisis de oraciones
 
@@ -11,9 +11,9 @@
       .col-12
         .crd.clr--pink.p-4
           .row.align-items-start
-            .col-auto
+            .col-lg-1.mb-lg-0.mb-4
               figure
-                img(src='@/assets/curso/tema4/1.svg', alt='Icono documento', style='width: 60px')
+                img(src='@/assets/curso/tema4/1.svg', alt='Icono documento', style='width: 100px').m-auto
             .col
               p.mb-0 La oración es la unidad de sentido menor y, a la vez, la más completa que una lengua tiene para comunicar ideas. A través de las oraciones se pueden expresar diferentes intenciones comunicativas: hechos, deseos, opiniones, dudas, preguntas, órdenes, suposiciones, sorpresas o asombros. Para comprender una oración de manera efectiva, es fundamental identificar su intencionalidad comunicativa y analizar las relaciones que se establecen entre sus diferentes partes. A continuación, se presentan las estrategias que permiten realizar este análisis:
 
@@ -28,42 +28,42 @@
     SlyderF(columnas="col-lg-4 col-xl-4")
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
-          .col-5
+          .col-lg-5.col-7
             figure
               img(src='@/assets/curso/tema4/2.svg', alt='').m-auto
         p.text-center.mb-0 Consultar la oración completa
 
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
-          .col-5
+          .col-lg-5.col-7
             figure
               img(src='@/assets/curso/tema4/3.svg', alt='').m-auto
         p.text-center.mb-0 Identificar los matices de la oración y las posibilidades de intencionalidad que estos ofrecen.
 
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
-          .col-5
+          .col-lg-5.col-7
             figure
               img(src='@/assets/curso/tema4/4.svg', alt='').m-auto
         p.text-center.mb-0 Reconocer las formas verbales presentes en la oración y las posibilidades de intencionalidad que poseen.
 
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
-          .col-5
+          .col-lg-5.col-7
             figure
               img(src='@/assets/curso/tema4/5.svg', alt='').m-auto
         p.text-center.mb-0 Determinar si la oración es enunciativa, interrogativa o exclamativa, y relacionar esta clasificación con las posibilidades de intencionalidad que pueden estar asociadas.
 
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
-          .col-5
+          .col-lg-5.col-7
             figure
               img(src='@/assets/curso/tema4/6.svg', alt='').m-auto
         p.text-center.mb-0 Definir la intencionalidad de la oración de acuerdo con todos los aspectos analizados. Una oración puede expresar hechos, deseos, opiniones, dudas, preguntas, órdenes, suposiciones, sorpresas o asombros.
 
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
-          .col-5
+          .col-lg-5.col-7
             figure
               img(src='@/assets/curso/tema4/7.svg', alt='').m-auto
         p.text-center.mb-0 Si la intencionalidad de la oración no resulta clara, se debe recurrir al análisis del contexto en el que se encuentra. 
@@ -138,8 +138,8 @@
         .p-5
           .row.align-items-center
             .col-lg-4
-              figure
-                    img(src='@/assets/curso/tema4/9.png', alt='Mujer con libros', style='width: 396px')
+              figure.d-lg-block.d-none
+                img(src='@/assets/curso/tema4/9.png', alt='Mujer con libros', style='width: 396px')
             .col-lg-8
               SlyderF(columnas="col-lg-4")
                 .tarjeta.bg-9.p-4.text-center.h100
