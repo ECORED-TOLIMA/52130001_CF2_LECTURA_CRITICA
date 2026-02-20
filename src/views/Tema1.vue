@@ -226,7 +226,7 @@
 
                     li.d-flex.align-items-start
                       i.lista-ul__vineta
-                      p.mb-0 Incentivar el pensamiento relacionando la información que se recibe al consultar el texto con
+                      p.mb-0 Incentivar el pensamiento relacionando la información que se recibe al consultar el texto con conocimientos previos sobre el tema (activación de los esquemas previos).
 
                 .col-lg-5
                   figure.d-lg-block.d-none(data-aos="zoom-in")
