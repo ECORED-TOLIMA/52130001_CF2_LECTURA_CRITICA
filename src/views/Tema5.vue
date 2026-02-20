@@ -29,18 +29,18 @@
 
           .row.align-items-start.bg-7
             .col-lg-1.mb-lg-0.mb-4
-              figure
+              figure(data-aos="fade-left")
                 img(src='@/assets/curso/tema5/1.svg', alt='', style='width: 100px').m-auto
             .col
               p.mb-0 Estas competencias representan, de manera general, las habilidades cognitivas necesarias para ser un lector crítico. Las dos primeras se refieren a la comprensión del contenido de un texto, ya sea local o global; la tercera corresponde a la aproximación propiamente crítica.
 
       .col-lg-3
-        figure.d-none.d-lg-block
+        figure.d-none.d-lg-block(data-aos="fade-left")
           img(src='@/assets/curso/tema5/2.png', alt='Libro con letras', style='width: 292px')
 
     .row.mb-5
       .col-lg-3.mb-4.mb-lg-0
-        figure
+        figure(data-aos="fade-left")
           img(src='@/assets/curso/tema5/3.svg', alt='Ilustración máquina de escribir', style='width: 292px').m-auto
 
       .col-lg-9
@@ -76,7 +76,7 @@
                   p.text-center.mb-0 El estudiante identifica los eventos narrados de manera explícita en un texto literario, descriptivo, caricatura o cómic.
 
       .col-lg-4
-        figure.d-none.d-lg-block
+        figure.d-none.d-lg-block(data-aos="fade-left")
           img(src='@/assets/curso/tema5/6.png', alt='Persona leyendo tablet', style='width: 396px')
 
 
@@ -89,14 +89,14 @@
         p.mb-0 La presente competencia consiste en la capacidad de comprender cómo se relacionan semántica y formalmente los elementos locales que constituyen un texto, de manera que éste adquiera un sentido global. En esa medida, las preguntas que la evalúan siempre involucran varios elementos locales de un texto y exigen reconocer y comprender su articulación. Las cinco evidencias que permiten afirmar que el estudiante ha desarrollado esta competencia son:
 
       .col-lg-4
-        figure
+        figure(data-aos="fade-left")
           img(src='@/assets/curso/tema5/7.png', alt='Mujer leyendo libro', style='width: 396px; margin-left:10px')
 
     .row.justify-content-center
       .col-lg-10
         .row.align-items-center.bg-20.bg-r8.p-4
           .col-lg-2.mb-4.mb-lg-0
-            figure.d-none.d-lg-block
+            figure.d-none.d-lg-block(data-aos="fade-left")
               img(src='@/assets/curso/tema5/8.svg', alt='Ilustración estudiante', style='width: 170px')
 
           .col-lg-10
@@ -128,7 +128,7 @@
 
     .row.align-items-center
       .col-lg-3.d-lg-block.d-none
-        figure
+        figure(data-aos="fade-left")
           img(src='@/assets/curso/tema5/9.png', alt='', style="width: 290px").m-auto
       .col-lg-9
         p Dicha competencia consiste en la capacidad de enfrentar el texto críticamente. Incluye evaluar la validez de argumentos, identificar supuestos, derivar implicaciones, reconocer estrategias argumentativas y retóricas, relacionar los contenidos con variables contextuales, etc. Las cinco evidencias que permiten afirmar que el estudiante ha desarrollado esta competencia son:

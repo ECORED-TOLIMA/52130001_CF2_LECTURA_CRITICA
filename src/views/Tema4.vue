@@ -12,7 +12,7 @@
         .crd.clr--pink.p-4
           .row.align-items-start
             .col-lg-1.mb-lg-0.mb-4
-              figure
+              figure(data-aos="fade-up")
                 img(src='@/assets/curso/tema4/1.svg', alt='Icono documento', style='width: 100px').m-auto
             .col
               p.mb-0 La oración es la unidad de sentido menor y, a la vez, la más completa que una lengua tiene para comunicar ideas. A través de las oraciones se pueden expresar diferentes intenciones comunicativas: hechos, deseos, opiniones, dudas, preguntas, órdenes, suposiciones, sorpresas o asombros. Para comprender una oración de manera efectiva, es fundamental identificar su intencionalidad comunicativa y analizar las relaciones que se establecen entre sus diferentes partes. A continuación, se presentan las estrategias que permiten realizar este análisis:
@@ -29,28 +29,28 @@
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
           .col-lg-5.col-7
-            figure
+            figure(data-aos="fade-up")
               img(src='@/assets/curso/tema4/2.svg', alt='').m-auto
         p.text-center.mb-0 Consultar la oración completa
 
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
           .col-lg-5.col-7
-            figure
+            figure(data-aos="fade-up")
               img(src='@/assets/curso/tema4/3.svg', alt='').m-auto
         p.text-center.mb-0 Identificar los matices de la oración y las posibilidades de intencionalidad que estos ofrecen.
 
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
           .col-lg-5.col-7
-            figure
+            figure(data-aos="fade-up")
               img(src='@/assets/curso/tema4/4.svg', alt='').m-auto
         p.text-center.mb-0 Reconocer las formas verbales presentes en la oración y las posibilidades de intencionalidad que poseen.
 
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
           .col-lg-5.col-7
-            figure
+            figure(data-aos="fade-up")
               img(src='@/assets/curso/tema4/5.svg', alt='').m-auto
         p.text-center.mb-0 Determinar si la oración es enunciativa, interrogativa o exclamativa, y relacionar esta clasificación con las posibilidades de intencionalidad que pueden estar asociadas.
 
@@ -120,7 +120,7 @@
               hr
 
       .col-lg-4.d-lg-block.d-none
-        figure
+        figure(data-aos="fade-up")
           img(src='@/assets/curso/tema4/8.png', alt='', style="width: 396px").m-auto          
 
 
@@ -138,7 +138,7 @@
         .p-5
           .row.align-items-center
             .col-lg-4
-              figure.d-lg-block.d-none
+              figure.d-lg-block.d-none(data-aos="fade-up")
                 img(src='@/assets/curso/tema4/9.png', alt='Mujer con libros', style='width: 396px')
             .col-lg-8
               SlyderF(columnas="col-lg-4")
@@ -146,7 +146,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/10.svg', alt='', style='width: 80px')
                   h5.mb-3 Leer la oración completa
                   p.mb-0 Leer la oración completa para comprender su significado.
@@ -156,7 +156,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/11.svg', alt='', style='width: 80px')
                   h5.mb-3 Identificar formas verbales
                   p.mb-0 Determinar formas verbales y sus intenciones.
@@ -166,7 +166,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/12.svg', alt='', style='width: 80px')
                   h5.mb-3 Definir intencionalidad
                   p.mb-0 Establecer la intencionalidad de la oración.
@@ -176,7 +176,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/13.svg', alt='', style='width: 80px')
                   h5.mb-3 Verificar estructura
                   p.mb-0 Determinar si la oración tiene una, dos o más partes.
@@ -186,7 +186,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/14.svg', alt='', style='width: 80px')
                   h5.mb-3 Identificar palabras de relación
                   p.mb-0 Encontrar la palabra que conecta las partes.
@@ -196,7 +196,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/15.svg', alt='', style='width: 80px')
                   h5.mb-3 Definir papel de las partes
                   p.mb-0 Explicar el papel de cada parte en la relación.
@@ -206,7 +206,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/16.svg', alt='', style='width: 80px')
                   h5.mb-3 Identificar matices
                   p.mb-0 Reconocer matices y posibilidades de intencionalidad.
@@ -216,7 +216,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/17.svg', alt='', style='width: 80px')
                   h5.mb-3 Clasificar tipo de oración
                   p.mb-0 Clasificar la oración como enunciativa, interrogativa o exclamativa.
@@ -226,7 +226,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/18.svg', alt='', style='width: 80px')
                   h5.mb-3 Analizar contexto
                   p.mb-0 Utilizar el contexto para aclarar la intencionalidad.
@@ -236,7 +236,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/19.svg', alt='', style='width: 80px')
                   h5.mb-3 Separar partes
                   p.mb-0 Dividir la oración en sus componentes.
@@ -246,7 +246,7 @@
                   .row.justify-content-center.mb-3
                     .col-auto
                       .circle-morado
-                        figure
+                        figure(data-aos="fade-up")
                           img(src='@/assets/curso/tema4/20.svg', alt='', style='width: 80px')
                   h5.mb-3 Determinar tipo de relación
                   p.mb-0 Establecer el tipo de relación entre las dos partes.

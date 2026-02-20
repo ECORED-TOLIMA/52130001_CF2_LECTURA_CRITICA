@@ -23,7 +23,7 @@
           .row.justify-content-center.mb-3
             .col-auto
               .circle-verde
-                figure
+                figure(data-aos="fade-down")
                   img(src='@/assets/curso/tema2/2.svg', alt='Literal', style='width: 80px')
           h5.mb-0 Literal
 
@@ -32,7 +32,7 @@
           .row.justify-content-center.mb-3
             .col-auto
               .circle-verde
-                figure
+                figure(data-aos="fade-down")
                   img(src='@/assets/curso/tema2/3.svg', alt='Inferencial', style='width: 80px')
           h5.mb-0 Inferencial
 
@@ -41,12 +41,12 @@
           .row.justify-content-center.mb-3
             .col-auto
               .circle-verde
-                figure
+                figure(data-aos="fade-down")
                   img(src='@/assets/curso/tema2/4.svg', alt='Crítico valorativo', style='width: 80px')
           h5.mb-0 Crítico valorativo
 
       .col-lg-3.col-md-6
-        figure
+        figure(data-aos="fade-down")
           img(src='@/assets/curso/tema2/5.svg', alt='Ilustración decorativa', style='width: 100%')
 
 
@@ -73,7 +73,7 @@
           p Este nivel es fundamental para acceder a los niveles superiores de comprensión.
         
         .col-lg-6
-          figure
+          figure(data-aos="fade-down")
             img(src='@/assets/curso/tema2/6.png', alt='Estudiantes conversando', style='width: 572px')
 
       .row.justify-content-center.align-items-center
@@ -101,7 +101,7 @@
           p Este nivel representa el puente entre la comprensión básica y la lectura crítica.
         
         .col-lg-6
-          figure
+          figure(data-aos="fade-down")
             img(src='@/assets/curso/tema2/7.png', alt='Persona estudiando', style='width: 572px')
 
       .row.justify-content-center.align-items-center
@@ -129,7 +129,7 @@
           p El lector asume una posición crítica y reflexiva frente al discurso del autor, construyendo interpretaciones fundamentadas.
         
         .col-lg-6
-          figure
+          figure(data-aos="fade-down")
             img(src='@/assets/curso/tema2/8.png', alt='Pila de libros', style='width: 572px')
 
 
@@ -166,7 +166,7 @@
                   p.text-center.mb-0 Tiene como propósito informar algo al receptor.
 
       .col-lg-4
-        figure.d-none.d-lg-block
+        figure.d-none.d-lg-block(data-aos="fade-down")
           img(src='@/assets/curso/tema2/12.png', alt='Persona leyendo tablet', style='width: 291px')
 
 
@@ -179,7 +179,7 @@
           h5 Figura 1.
           span Funciones del lenguaje y tipos de textos
 
-        figure
+        figure(data-aos="fade-down")
           img.d-none.d-md-block.m-auto(
             src='@/assets/curso/tema2/13.svg',
             alt='Figura 1. Funciones del lenguaje y tipos de textos. La figura clasifica los textos según la intención comunicativa del autor en tres funciones: la persuasiva, que busca convencer; la expresiva, que permite manifestar emociones; y la referencial o informativa, que tiene como propósito transmitir información objetiva. ', style="width: 1020px").m-auto

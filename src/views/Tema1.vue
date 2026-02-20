@@ -7,7 +7,7 @@
         span 1
       h1 Técnicas de comprensión lectora
 
-    p.mb-4 La comprensión lectora permite entender, interpretar y analizar la información que presentan los textos. Comprender un texto implica ir más allá de reconocer palabras; requiere identificar las ideas principales, secundarias entre otras y construir significados coherentes.
+    p.mb-4 La comprensión lectora permite entender, interpretar y analizar la información que presentan los textos. Comprender un texto implica ir más allá de reconocer palabras; requiere identificar las ideas principales, relacionarlas entre sí y construir significados completos.
 
     p.mb-4 Para desarrollar esta habilidad, es importante aplicar un proceso que incluye:
 
@@ -52,7 +52,7 @@
         .p-5
           .row.align-items-center
             .col-lg-4.d-lg-block.d-none
-              figure
+              figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema1/4.png', alt='Persona leyendo libro', style='width: 396px').m-auto
 
             .col-lg-8
@@ -62,7 +62,7 @@
                     .col-8
                       img(src='@/assets/curso/tema1/5.svg', alt='').img100.m-auto
                   p.text-center.mb-0 Explicar las características de algo (describir).
-
+                  
                 .tarjeta.bg-9.p-4
                   .row.justify-content-center.mb-3
                     .col-8
@@ -107,36 +107,35 @@
 
 
 
+    p.mt-4 Para desarrollar habilidades efectivas de comprensión lectora, es fundamental aplicar ciertos principios que optimizan el proceso de aprendizaje. A continuación, se describen las prácticas esenciales que conviene tener presentes:
+
     .row.mt-4.bg-4.p-3.bg-r8
       .col-12
         ul.lista-ul--color
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Un resumen debe tener una extensión aproximada de una cuarta parte del texto original.
+            p.mb-0 La práctica diaria es el único sistema de perfeccionamiento de la lectura.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Todas las ideas deberán estar completamente integradas, enlazadas y relacionadas. No puede ser una sucesión de ideas ni una simple enumeración.
+            p.mb-0 Antes de iniciar la lectura, se debe hojear el texto. La exploración preliminar del texto es el medio ideal para mejorar la comprensión.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Debe ir de lo general e importante del tema a lo particular del mismo.
+            p.mb-0 Es necesario contar con condiciones óptimas para consultar los textos: buena iluminación, postura adecuada, la distancia adecuada del papel y una actitud positiva.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Debe ir de lo fundamental a lo explicativo.
+            p.mb-0 Cuanto más rápido se consulta un texto, más rápido se comprende.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 En los resúmenes no podrán utilizarse guiones ni asteriscos. El punto seguido es el medio de enlace.
+            p.mb-0 Lo más importante son las ideas, no las palabras. Poner atención en captar las ideas es lo esencial.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 La labor de resumir es posterior al subrayado y consiste en la unión de todas las ideas principales y secundarias.
-
-          li.d-flex.align-items-start
-            span.icono-img
-            p.mb-0 Facilita la comprensión
+            p.mb-0 Resulta conveniente consultar siempre de forma activa y crítica.
+            
 
     .row.align-items-center.mt-4
       .col-lg-8.mb-lg-0
@@ -174,10 +173,14 @@
             i.lista-ul__vineta
             | Realizar al comienzo explicaciones cortas recalcando los puntos principales hasta ser capaz de expresar la idea en forma más compleja.
 
+          li
+            i.lista-ul__vineta
+            | Expresar lo aprendido a través de: resúmenes, esquemas o mapas semánticos.
+
       .col-lg-4.d-none.d-lg-block
-        figure.mb-4
+        figure.mb-4(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/13.png', alt='Mujer leyendo', style='width: 293px')
-        figure
+        figure.mt-4(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/14.svg', alt='Persona estudiando', style='width: 293px')
 
 
@@ -226,7 +229,7 @@
                       p.mb-0 Incentivar el pensamiento relacionando la información que se recibe al consultar el texto con
 
                 .col-lg-5
-                  figure.d-lg-block.d-none
+                  figure.d-lg-block.d-none(data-aos="zoom-in")
                     img(src='@/assets/curso/tema1/15.png', alt='Tres personas estudiando con laptop', style='width: 371px')
 
 
@@ -290,7 +293,7 @@
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
-                figure
+                figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema1/16.svg', alt='Estructura lógica', style='width: 80px')
           h4.mb-0 Estructura lógica
 
@@ -299,7 +302,7 @@
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
-                figure
+                figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema1/17.svg', alt='Ideas generales', style='width: 80px')
           h4.mb-0 Ideas generales
 
@@ -308,7 +311,7 @@
           .row.justify-content-center.mb-3
             .col-auto
               .circle-morado
-                figure
+                figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema1/18.svg', alt='Ideas principales', style='width: 80px')
           h4.mb-0 Ideas principales
 
@@ -368,7 +371,7 @@
             p.mb-0 El punto y coma (;) equivale a un punto, pero su relación con la oración anterior es más estrecha.
 
       .col-lg-4
-        figure.d-lg-block.d-none
+        figure.d-lg-block.d-none(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/23.png', alt='Mano escribiendo en documento', style='width: 100%')
 
 
@@ -376,7 +379,7 @@
 
     .row.mb-5
       .col-lg-3.mb-4.mb-lg-0
-        figure.d-lg-block.d-none
+        figure.d-lg-block.d-none(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/24.png', alt='Mujer leyendo sentada', style='width: 292px')
 
       .col-lg-9
@@ -386,7 +389,7 @@
 
         .row.align-items-start.bg-7.p-3.bg-r8
           .col-lg-1.mb-lg-0.mb-4
-            figure
+            figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/25.svg', alt='Icono puzzle', style='width: 100px').m-auto
           .col
             p.mb-0 Para identificar correctamente las ideas principales y secundarias, es fundamental conocer dos aspectos clave: la ubicación de la idea principal dentro del párrafo y las características de las frases secundarias que la complementan. A continuación, se desarrollan estos dos elementos:
@@ -404,21 +407,21 @@
             .row.justify-content-center
               .col-lg-4
                 .crd.bg-7.bg-r8.p-4.text-center.h-100
-                  figure.mb-2
+                  figure.mb-2(data-aos="zoom-in")
                     img(src='@/assets/curso/tema1/26.svg', alt='Inicio párrafo', style='width: 80px').m-auto
                   p.mb-0
                     strong Al inicio del párrafo
 
               .col-lg-4.mt-lg-0.mt-4
                 .crd.bg-7.bg-r8.p-4.text-center.h100
-                  figure.mb-2
+                  figure.mb-2(data-aos="zoom-in")
                     img(src='@/assets/curso/tema1/27.svg', alt='Parte central', style='width: 80px').m-auto
                   p.mb-0
                     strong En la parte central del párrafo
 
               .col-lg-4.mt-lg-0.mt-4
                 .crd.bg-7.bg-r8.p-4.text-center.h-100
-                  figure.mb-2
+                  figure.mb-2(data-aos="zoom-in")
                     img(src='@/assets/curso/tema1/28.svg', alt='Final párrafo', style='width: 80px').m-auto
                   p.mb-0
                     strong Al final del párrafo
@@ -437,7 +440,7 @@
                 .row.justify-content-center.mb-4
                   .col-auto
                     .circle-verde
-                      figure
+                      figure(data-aos="zoom-in")
                         img(src='@/assets/curso/tema1/29.svg', alt='Bombilla inicio', style='width: 80px')
                 p.mb-0
                   strong Idea al inicio: 
@@ -448,7 +451,7 @@
                 .row.justify-content-center.mb-4
                   .col-auto
                     .circle-verde
-                      figure
+                      figure(data-aos="zoom-in")
                         img(src='@/assets/curso/tema1/30.svg', alt='Bombilla centro', style='width: 80px')
                 p.mb-0.text-center
                   strong Idea en la parte central: 
@@ -469,7 +472,7 @@
                 .row.justify-content-center.mb-4
                   .col-auto
                     .circle-verde
-                      figure
+                      figure(data-aos="zoom-in")
                         img(src='@/assets/curso/tema1/31.svg', alt='Bombilla final', style='width: 80px')
                 p.mb-0
                   strong Idea al final: 
@@ -504,21 +507,28 @@
             h5.mb-3.bg-2.bg-r8.p-3
               strong b) Las frases secundarias
 
-        p Para reconocer la idea principal de un párrafo, se pueden aplicar las siguientes estrategias:
+        p Las frases secundarias son aquellas que refuerzan y/o amplían la idea principal.
 
         ul.lista-ul--color
           li.d-flex.align-items-start
             span.icono-img2
-            p.mb-0 Formular las preguntas: ¿De qué o de quién se habla? ¿Qué se dice de ello? La respuesta a estas preguntas es la idea principal.
+            p.mb-0 Son repetitivas y reiterativas; expresan con distintas palabras la misma idea de la frase principal, con el objetivo de reforzar el sentido de la misma idea.
 
           li.d-flex.align-items-start
             span.icono-img2
-            p.mb-0 Determinar cuál es la palabra que más se repite dentro del párrafo.
+            p.mb-0 Son también "frases de contraste"; en ellas se contrastan ideas y se fundamenta el mecanismo de la acción dentro del párrafo.
 
           li.d-flex.align-items-start
             span.icono-img2
-            p.mb-0 Verificar que la frase principal es imprescindible dentro del párrafo; si se quita, el párrafo aparecerá trunco e incompleto. Además, identificar que la frase donde se exprese la afirmación más amplia y abstracta será siempre la conclusión y el resumen de las demás.
+            p.mb-0 Estas frases ejemplifican la idea principal a través de detalles o sobre la base de casos concretos.
 
+          li.d-flex.align-items-start
+            span.icono-img2
+            p.mb-0 Razonan y argumentan con detalles el contenido de la frase principal.
+
+          li.d-flex.align-items-start
+            span.icono-img2
+            p.mb-0 Las frases secundarias pueden resultar confusas para el lector si no se identifican correctamente.
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
@@ -548,7 +558,7 @@
             p.mb-0 Subrayar las ideas que correspondan a las preguntas clave para recuperar toda la información importante (antecedentes, características, definiciones, acciones, funciones, procesos, etc.)
 
       .col-lg-4
-        figure.d-lg-block.d-none
+        figure.d-lg-block.d-none(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/32.png', alt='Texto subrayado con marcador naranja', style='width: 292px')
 
 

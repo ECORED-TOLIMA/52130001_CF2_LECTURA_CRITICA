@@ -7,7 +7,7 @@
         span 6
       h1 Aplicación de técnicas de lectura
 
-    figure.mb-5
+    figure.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/tema6/1.png', alt='Libros apilados', style='width: 100%')
 
     p.mt-4 El desarrollo de competencias en lectura crítica trasciende el conocimiento teórico y requiere su aplicación práctica en contextos reales de comunicación. Para alcanzar una comprensión autónoma y profunda de los textos, es fundamental que el lector integre diversas técnicas que le permitan no solo interpretar el discurso ajeno, sino también construir sus propias posiciones argumentadas y participar activamente en la construcción del conocimiento.
@@ -50,7 +50,7 @@
       .col-lg-9
         p La lectura crítica constituye un proceso complejo que integra múltiples dimensiones cognitivas, lingüísticas y socioculturales. Su desarrollo requiere la articulación de disposiciones personales, capacidades analíticas, estrategias metodológicas y competencias específicas que permiten al lector no solo comprender el texto, sino también evaluarlo críticamente y posicionarse frente a él de manera fundamentada. Este proceso se sustenta en cinco componentes interdependientes: la disposición crítica del lector, la capacidad analítica, las estrategias de análisis, las competencias específicas y la dimensión formativa y social, los cuales se describen a continuación.
       .col-lg-3.d-none.d-lg-block
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema6/6.png', alt='', style="width: 290px").m-auto
 
 
@@ -76,7 +76,7 @@
 
             
               .col-lg-5
-                figure
+                figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema6/7.png', alt='', style='width: 100%')
 
           div(titulo="Capacidad analítica")
@@ -96,7 +96,7 @@
                     p.mb-0 Reconocer la lectura crítica como instrumento para acceder y dominar el registro sociocultural, proceso influido por factores sociales, políticos y culturales.
               
               .col-lg-5
-                figure
+                figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema6/8.png', alt='', style='width: 100%')
 
           div(titulo="Estrategias de análisis")
@@ -116,7 +116,7 @@
                     p.mb-0 Reconocer y analizar las posibilidades técnicas y los nuevos soportes discursivos en la era digital.
               
               .col-lg-5
-                figure
+                figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema6/9.png', alt='', style='width: 100%')
 
           div(titulo="Competencias específicas")
@@ -141,7 +141,7 @@
                     p.mb-0 Pragmáticas y culturales: derivar implicaciones, establecer conexiones contextuales y cuestionarse cómo las ideas del texto posicionan al lector frente a la realidad.
               
               .col-lg-5
-                figure
+                figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema6/10.png', alt='', style='width: 100%')
 
           div(titulo="Dimensión formativa y social")
@@ -163,13 +163,13 @@
                     p.mb-0 Desarrollar la tolerancia intelectual y el respeto hacia las ideas de otros como base del diálogo democrático.
               
               .col-lg-5
-                figure
+                figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema6/11.png', alt='', style='width: 100%')
 
 
     .row.align-items-center
       .col-lg-4.d-lg-block.d-none
-        figure
+        figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema6/12.svg', alt='', style="width: 390px").m-auto
       .col-lg-8
         p Una vez extraídas las ideas principales del texto, el proceso de comprensión lectora requiere aplicar estrategias que permitan organizar la información de manera coherente y verificar la efectividad de la comprensión alcanzada. A continuación, se presenta un podcast que expone las técnicas para ordenar las ideas más importantes de un texto, mediante un proceso sistemático de revisión, agrupación y organización lógica de la información identificada durante la lectura.
@@ -178,7 +178,7 @@
     .row.justify-content-center.mt-4
       .col-lg-10
         .row.bg-2
-          figure
+          figure(data-aos="zoom-in")
             img(src='@/assets/curso/tema6/13.svg', style="width: 1020px").m-auto          
           .row.justify-content-center.g-0.p-4.bg-8
             .col-lg-10
