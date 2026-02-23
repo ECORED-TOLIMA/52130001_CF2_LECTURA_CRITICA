@@ -260,21 +260,6 @@ export default {
         'Serrano de Moreno, S., & Madrid de Forero, A. (2007). Competencias de lectura crítica: Una propuesta para la reflexión y la práctica. <em>Acción Pedagógica</em>, (16), pp. 58-68.',
       link: 'https://dialnet.unirioja.es/descarga/articulo/2968602.pdf',
     },
-    {
-      referencia:
-        'Se ajusta el contenido del documento según Planeación pedagógica y normas APA 7 edición.',
-      link: '',
-    },
-    {
-      referencia:
-        'Serrano de Moreno, S., & Madrid de Forero, A. (2007). Competencias de lectura crítica: Una propuesta para la reflexión y la práctica. <em>Acción Pedagógica</em>, (16), pp. 58-68.',
-      link: 'https://dialnet.unirioja.es/descarga/articulo/2968602.pdf',
-    },
-    {
-      referencia:
-        'Se ajusta el contenido del documento según Planeación pedagógica y normas APA 7 edición.',
-      link: '',
-    },
   ],
   creditos: [
     {
