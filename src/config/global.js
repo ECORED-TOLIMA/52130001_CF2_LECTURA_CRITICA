@@ -217,11 +217,6 @@ export default {
       significado:
         'visión total del texto a partir de la relación de sus ideas.',
     },
-    {
-      termino: 'Sentido global',
-      significado:
-        'visión total del texto a partir de la relación de sus ideas.',
-    },
   ],
   referencias: [
     {

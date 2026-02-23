@@ -47,10 +47,10 @@
 
     .titulo-tres.mt-5: h3 ¿Qué operaciones cognitivas se requieren cuando se busca comprender lo estudiado o leído?
 
-    .row.bg-3
+    .row
       .col-12
         .p-5
-          .row.align-items-center
+          .row.align-items-center.bg-3
             .col-lg-4.d-lg-block.d-none
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema1/4.png', alt='Persona leyendo libro', style='width: 396px').m-auto
@@ -185,12 +185,12 @@
 
 
     separador
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.1 Estrategias de lectura
 
     p Para desarrollar la comprensión lectora de manera efectiva, es fundamental aplicar estrategias específicas que faciliten el procesamiento y la retención de la información. A continuación, se presentan las principales técnicas que optimizan este proceso:
 
-    .row.bg-6
+    .row.bg-6.m-30
       .col-12
         .p-5
           .row.align-items-center.bg-5.bg-r8.p-4
@@ -282,12 +282,12 @@
 
 
     separador
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.2 Señales de organización textual
 
     p Los textos presentan señales que indican cómo está organizada la información y cómo se relacionan las ideas entre sí. Reconocer estas señales permite identificar la estructura del texto y facilita la comprensión de su contenido. Estas señales son:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mt-4
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta.clr-paleYellow.p-4.text-center.bg-21
           .row.justify-content-center.mb-3
@@ -315,7 +315,7 @@
                   img(src='@/assets/curso/tema1/18.svg', alt='Ideas principales', style='width: 80px')
           h4.mb-0 Ideas principales
 
-    p.mb-4 Es fundamental reconocer cuál es la estructura lógica que el autor utiliza en la elaboración de un texto.
+    p.mt-4 Es fundamental reconocer cuál es la estructura lógica que el autor utiliza en la elaboración de un texto.
 
     // Segunda fila - 4 tarjetas azules con avatar
     .row.justify-content-center
@@ -360,7 +360,7 @@
 
           li
             span.icono-img
-            p.mb-0 seguido marca ampliaciones o explicaciones de esa idea, es decir, son ideas secundarias.
+            p.mb-0 Seguido marca ampliaciones o explicaciones de esa idea, es decir, son ideas secundarias.
 
           li
             span.icono-img

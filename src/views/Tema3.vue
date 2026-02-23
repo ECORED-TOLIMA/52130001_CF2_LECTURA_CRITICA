@@ -141,8 +141,13 @@
 
     .row.justify-content-center
       .col-lg-10
+
+        .titulo-sexto.color-acento-contenido.mb-3.mt-4
+          h5 Figura 2.
+          span Estrategias de decodificación primaria según la teoría de las seis lecturas.
+
         figure(data-aos="fade-left")
-          img.d-none.d-md-block.m-auto(src='@/assets/curso/tema3/13.svg', alt='Figura 2, Diagrama que ilustra el proceso de decodificación para comprender palabras desconocidas durante la lectura. El proceso incluye tres etapas: identificación de la palabra desconocida, aplicación de estrategias (uso del vocabulario conocido, análisis del contexto, identificación de familias de palabras y búsqueda de sinónimos y antónimos) y comprensión del significado de la palabra. Basado en De Zubiría (1995). ', style="width: 1020px").m-auto
+          img.d-none.d-md-block.m-auto(src='@/assets/curso/tema3/13.svg', alt='Figura 2, Diagrama que ilustra el proceso de decodificación para comprender palabras desconocidas durante la lectura. El proceso incluye tres etapas: identificación de la palabra desconocida, aplicación de estrategias (uso del vocabulario conocido, análisis del contexto, identificación de familias de palabras y búsqueda de sinónimos y antónimos) y comprensión del significado de la palabra. Basado en De Zubiría (1995).', style="width: 1020px").m-auto
           figcaption.d-none.d-md-block.m-auto Nota. Esquema elaborado a partir de De Zubiría (1995).
           img.d-block.d-md-none.m-auto(src='@/assets/curso/tema3/13m.svg', alt='Figura 2, Diagrama que ilustra el proceso de decodificación para comprender palabras desconocidas durante la lectura. El proceso incluye tres etapas: identificación de la palabra desconocida, aplicación de estrategias (uso del vocabulario conocido, análisis del contexto, identificación de familias de palabras y búsqueda de sinónimos y antónimos) y comprensión del significado de la palabra. Basado en De Zubiría (1995). ', style="width: 1020px").m-auto
 

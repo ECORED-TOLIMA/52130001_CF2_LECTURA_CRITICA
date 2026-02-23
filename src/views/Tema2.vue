@@ -154,7 +154,7 @@
               img(src='@/assets/curso/tema2/10.svg' alt='AvatarTop')
               .tarjeta.shadow.bg-2
                 .p-4.pt-5
-                  h5.text-center.mb-3 Función expresiva:
+                  h5.text-center.mb-3 Función expresiva
                   p.text-center.mb-0 Permite expresar emociones, sentimientos o sensaciones del emisor.
 
           .col-lg-4
@@ -162,7 +162,7 @@
               img(src='@/assets/curso/tema2/11.svg' alt='AvatarTop')
               .tarjeta.shadow.bg-2
                 .p-4.pt-5
-                  h5.text-center.mb-3 Función informativa o referencial:
+                  h5.text-center.mb-3 Función informativa o referencial
                   p.text-center.mb-0 Tiene como propósito informar algo al receptor.
 
       .col-lg-4
@@ -175,6 +175,7 @@
 
     .row.justify-content-center
       .col-lg-10
+
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Figura 1.
           span Funciones del lenguaje y tipos de textos
