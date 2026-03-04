@@ -551,11 +551,11 @@
 
           li.d-flex.align-items-start
             span.icono-img2
-            p.mb-0 Subrayar únicamente palabras clave, que incluyen el verbo, el sustantivo y el adjetivo. Se debe evitar subrayar los conectores (lativos).
+            p.mb-0 Subrayar únicamente palabras clave, que incluyen el verbo, el sustantivo y el adjetivo. Se debe evitar subrayar los conectores (ilativos).
 
           li.d-flex.align-items-start
             span.icono-img2
-            p.mb-0 Subrayar las ideas que correspondan a las preguntas clave para recuperar toda la información importante (antecedentes, características, definiciones, acciones, funciones, procesos, etc.)
+            p.mb-0 Subrayar las ideas que correspondan a las preguntas clave para recuperar toda la información importante (antecedentes, características, definiciones, acciones, funciones, procesos, etc.).
 
       .col-lg-4
         figure.d-lg-block.d-none(data-aos="zoom-in")

@@ -119,7 +119,7 @@
 
               li
                 span.icono-img
-                p.mb-0 El estudiante identifica el tipo de relación existente entre las diferentes elementos de un texto discontinuo.
+                p.mb-0 El estudiante identifica el tipo de relación existente entre los diferentes elementos de un texto discontinuo.
 
 
     separador
