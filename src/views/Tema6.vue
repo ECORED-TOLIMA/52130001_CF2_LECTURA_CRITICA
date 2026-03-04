@@ -44,6 +44,8 @@
               p.text-center.mb-0  #[b D)] El intérprete utiliza recursos lingüísticos para expresar sus opiniones de manera crítica y constructiva, contribuyendo al desarrollo de una comunidad plural y respetuosa. 
 
 
+    p.mt-4 Estos elementos se integran en un proceso cognitivo complejo que articula disposiciones, capacidades, estrategias y competencias específicas para el desarrollo del pensamiento crítico.
+
     .titulo-tres.mt-5: h3 La lectura crítica como actividad cognitiva
 
     .row.align-items-center

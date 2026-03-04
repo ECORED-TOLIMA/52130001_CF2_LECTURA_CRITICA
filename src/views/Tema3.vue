@@ -102,7 +102,8 @@
               figure(data-aos="fade-left")
                 img(src='@/assets/curso/tema3/10.svg', alt='Icono libro', style='width: 100px').m-auto
             .col
-              p.mb-0 Un texto tiene una estructura formal (que son las partes que tiene según el tipo de texto). El texto también tiene una estructura de ideas (que está formada por el plan de ideas que desarrolla el texto, es decir, su contenido). La estructura de ideas es lo que se dice en cada parte del texto (en cada parte de la estructura formal). Un lector debe tener en cuenta cómo está organizado el texto, es decir, cómo está compuesto. Conocer esto lo orienta para poner en juego las concepciones sobre qué tipo de texto es, qué intenciones puede tener, qué función pretende cumplir y qué puede esperar de ese tipo de texto. Un lector también debe desentrañar la estructura de ideas del texto, es decir, sus contenidos.
+              p.mb-0 Un texto tiene una estructura formal (que son las partes que tiene según el tipo de texto). El texto también tiene una estructura de ideas (que está formada por el plan de ideas que desarrolla el texto, es decir, su contenido). La estructura de ideas es lo que se dice en cada parte del texto (en cada parte de la estructura formal). Un lector debe tener en cuenta cómo está organizado el texto, es decir, cómo está compuesto. Conocer esto lo orienta para poner en juego sus conocimientos sobre qué tipo de texto es, qué intencionalidad puede tener, qué función pretende cumplir y qué puede esperar de ese tipo de texto. Un lector también debe desentrañar la estructura de ideas del texto, es decir, sus contenidos.
+
 
     p.mt-4 Para lograr la comprensión específica del texto, el lector debe desarrollar estrategias diferenciadas según el nivel de análisis requerido:
 

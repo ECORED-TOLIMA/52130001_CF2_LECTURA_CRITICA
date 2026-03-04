@@ -14,7 +14,8 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-          p.mb-0 Para que dicha interacción sea posible, el lector debe activar los conocimientos que posee sobre el tema, las estrategias que ha aprendido a lo largo de su vida, el conocimiento que tiene de su lengua materna y la visión del mundo que ha configurado con sus conocimientos y experiencias. La comprensión de un texto o de un asunto oral requiere de un acto unidireccional en el que un emisor comunica algo que debe ser asimilado o entendido por otro.
+          p.mb-0 Para que dicha interacción sea posible, el lector debe activar los conocimientos que posee sobre el tema, las experiencias que ha adquirido a lo largo de su vida, el conocimiento que tiene de su lengua materna y la visión del mundo que ha configurado con sus conocimientos y experiencias. La comprensión de un texto o de un discurso oral siempre es un acto interactivo, no un acto unidireccional en el que un emisor comunica algo que debe ser asimilado o entendido por otro. 
+          
     p.mt-4 Para que haya una verdadera comprensión, el texto debe ser interpretado en distintos niveles:
 
     .row.justify-content-center

@@ -444,7 +444,7 @@
                         img(src='@/assets/curso/tema1/29.svg', alt='Bombilla inicio', style='width: 80px')
                 p.mb-0
                   strong Idea al inicio: 
-                  | cuando la idea principal se encuentra al principio del párrafo, su identificación resulta directa, ya que el resto del párrafo generalmente ejemplifica esta idea inicial.
+                  | cuando la idea principal se encuentra al principio del párrafo, su identificación resulta directa, ya que el resto del contenido desarrolla o ejemplifica esta idea inicial. Se debe conservar como la propone el experto.
 
             .col-lg-4.mb-4.mb-lg-0
               .tarjeta.bg-12.p-4.h-100
