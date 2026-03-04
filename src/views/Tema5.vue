@@ -111,7 +111,7 @@
 
               li
                 span.icono-img
-                p.mb-0 El estudiante comprende las relaciones entre diferentes partes o enunciados de un texto.
+                p.mb-0 El estudiante comprende las relaciones entre las diferentes partes o enunciados de un texto.
 
               li
                 span.icono-img
@@ -119,7 +119,7 @@
 
               li
                 span.icono-img
-                p.mb-0 El estudiante identifica el tipo de relación existente entre diferentes elementos de un texto discontinuo.
+                p.mb-0 El estudiante identifica el tipo de relación existente entre las diferentes elementos de un texto discontinuo.
 
 
     separador

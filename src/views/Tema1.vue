@@ -156,7 +156,7 @@
             | Ejercitar el lenguaje como instrumento para expresar los pensamientos e ideas.
           li
             i.lista-ul__vineta
-            | Ejercitar la voluntad y la perseverancia para someterse a los obstáculos los que opone la memoria al evocar lo aprendido.
+            | Ejercitar la voluntad y la perseverancia para someterse a  obstáculos que opone la memoria al evocar lo aprendido.
           li
             i.lista-ul__vineta
             | Lo más importante son las ideas, no las palabras. Poner atención en captar las ideas es lo esencial.
@@ -165,7 +165,7 @@
             | Verificar las respuestas. Obtener una confirmación de lo que uno cree que captó.
           li
             i.lista-ul__vineta
-            | Trabajar en grupo, desarrollar una conducta participativa, e intercambiar información para agilizar la dinámica del estudio, donde cada uno pasa a ser parte activa e imprescindible. (el grupo enseña a asumir responsabilidades).
+            | Trabajar en grupo, desarrollar una conducta participativa e intercambiar información para agilizar la dinámica del estudio, donde cada uno pasa a ser parte activa e imprescindible. (El grupo enseña a asumir responsabilidades).
           li
             i.lista-ul__vineta
             | Ejercitar para sacar el mayor número de ideas, porque mayores serán las posibilidades de retención.
@@ -175,7 +175,7 @@
 
           li
             i.lista-ul__vineta
-            | Expresar lo aprendido a través de: resúmenes, esquemas o mapas semánticos.
+            | Expresar lo aprendido a través de resúmenes, esquemas o mapas semánticos.
 
       .col-lg-4.d-none.d-lg-block
         figure.mb-4(data-aos="zoom-in")
@@ -346,7 +346,7 @@
           img(src='@/assets/curso/tema1/22.svg')
           .tarjeta.bg-2.shadow
             .p-4.pt-5
-              p.text-center.mb-0 Utilizar un procedimiento deductivo, es decir, de una norma o definición añadir argumentos que lo apoyan.
+              p.text-center.mb-0 Utilizar un procedimiento deductivo, es decir, de una norma o definición, añadir argumentos que lo apoyan.
 
 
     p.mt-4 Los signos de puntuación cumplen funciones específicas que permiten identificar y jerarquizar las ideas dentro de un texto. Conocer estas funciones facilita la comprensión de la estructura del contenido:
@@ -360,7 +360,7 @@
 
           li
             span.icono-img
-            p.mb-0 Seguido marca ampliaciones o explicaciones de esa idea, es decir, son ideas secundarias.
+            p.mb-0 El punto seguido marca ampliaciones o explicaciones de esa idea, es decir, son ideas secundarias.
 
           li
             span.icono-img

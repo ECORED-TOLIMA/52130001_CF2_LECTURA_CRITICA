@@ -124,7 +124,6 @@
 
           .col-lg-6
             .tarjeta.bg-8.p-4.p-md-5.h-100.text-center
-              h4.text-center.mb-4 Comprensión de palabras
               h4.text-center.mb-4 Comprensión de oraciones
 
               figure.mb-4(data-aos="fade-left")

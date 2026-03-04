@@ -50,7 +50,7 @@
           img(src='@/assets/curso/tema2/5.svg', alt='Ilustración decorativa', style='width: 100%')
 
 
-    p.mt-4 Comprender un texto en los tres niveles mencionados se necesita de un proceso.
+    p.mt-4 Para comprender un texto en los tres niveles mencionados, se necesita de un proceso.
 
     SlyderA.p-4.bg-14.bg-r8(tipo="b")
       .row.justify-content-center.align-items-center

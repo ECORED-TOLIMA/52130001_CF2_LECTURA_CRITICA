@@ -31,7 +31,7 @@
           .col-lg-5.col-7
             figure(data-aos="fade-up")
               img(src='@/assets/curso/tema4/2.svg', alt='').m-auto
-        p.text-center.mb-0 Consultar la oración completa
+        p.text-center.mb-0 Consultar la oración completa.
 
       .tarjeta.color-acento-contenido.p-4.bg-12.h-100
         .row.justify-content-center.mb-3
