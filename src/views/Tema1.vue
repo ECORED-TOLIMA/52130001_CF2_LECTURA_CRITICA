@@ -156,7 +156,7 @@
             | Ejercitar el lenguaje como instrumento para expresar los pensamientos e ideas.
           li
             i.lista-ul__vineta
-            | Ejercitar la voluntad y la perseverancia para someterse a  obstáculos que opone la memoria al evocar lo aprendido.
+            | Ejercitar la voluntad y la perseverancia para someterse a obstáculos que opone la memoria al evocar lo aprendido.
           li
             i.lista-ul__vineta
             | Lo más importante son las ideas, no las palabras. Poner atención en captar las ideas es lo esencial.
