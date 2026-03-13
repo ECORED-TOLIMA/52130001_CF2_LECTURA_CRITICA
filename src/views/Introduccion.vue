@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/intro/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La comprensión lectora es una habilidad esencial para el éxito académico y profesional, ya que permite interpretar, analizar y evaluar la información de manera eficiente y crítica. A través de técnicas específicas de lectura, se fortalecen habilidades como identificar las ideas principales, reconocer los detalles que organizan los textos y desarrollar el pensamiento crítico.
+        p.mb-0 La comprensión lectora es una habilidad esencial para el éxito académico y profesional, ya que permite interpretar, analizar y evaluar la información de manera reflexiva y crítica. A través de técnicas específicas de lectura, se fortalecen habilidades como identificar las ideas principales, reconocer las señales que organizan los textos y desarrollar el pensamiento crítico. 
 
     .bg-1
       .col-12 
@@ -24,9 +24,10 @@
                 img(src='@/assets/curso/intro/2.svg', alt='Icono de video', style='width: 100px').m-auto
             
             .col
-              p Se presentan estrategias para comprender textos en tres etapas: entender lo que dice directamente, descubrir la información que no está escrita, pero se puede deducir, y reflexionar de manera crítica para relacionar el planteamiento de estas habilidades favorece una lectura activa que va más allá de un simple reconocimiento de palabras y que resulta en la vida académica, laboral y cotidiana.
+              p Se presentan estrategias para comprender textos en tres etapas: entender lo que dice directamente, descubrir la información que no está escrita, pero se puede deducir, y reflexionar de manera crítica para evaluar lo planteado. El fortalecimiento de estas habilidades favorece una lectura activa que va más allá de reconocer palabras, permitiendo analizar y evaluar lo que se lee de manera necesaria en la vida académica, laboral y cotidiana.
               
               p Para comprender la importancia del contenido y los temas abordados, se recomienda acceder al siguiente video:
+
               
           .row.justify-content-center.align-items-center.mt-4           
             .col-lg-12

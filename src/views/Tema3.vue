@@ -57,7 +57,7 @@
               figure(data-aos="fade-left")
                 img(src='@/assets/curso/tema3/5.svg', alt='Texto que describa la imagen')
 
-          h3.text-center Apartados
+          h3.text-center Apartados.
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.bg-8.p-4
@@ -66,7 +66,7 @@
               figure(data-aos="fade-left")
                 img(src='@/assets/curso/tema3/6.svg', alt='Texto que describa la imagen')
 
-          h3.text-center Párrafos
+          h3.text-center Párrafos.
 
       .col-sm-6.col-lg-3.mb-4.mb-sm-0
         .tarjeta--boton.bg-2.p-4
@@ -75,7 +75,7 @@
               figure(data-aos="fade-left")
                 img(src='@/assets/curso/tema3/7.svg', alt='Texto que describa la imagen')
 
-          h3.text-center Oraciones
+          h3.text-center Oraciones.
 
       .col-sm-6.col-lg-3
         .tarjeta--boton.bg-8.p-4
@@ -84,7 +84,7 @@
               figure(data-aos="fade-left")
                 img(src='@/assets/curso/tema3/8.svg', alt='Texto que describa la imagen')
 
-          h3.text-center Palabras
+          h3.text-center Palabras.
 
     .row.mt-4
       .col-lg-3.mb-4.mb-lg-0

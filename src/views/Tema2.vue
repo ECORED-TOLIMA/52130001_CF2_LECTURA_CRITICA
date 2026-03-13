@@ -14,7 +14,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-          p.mb-0 Para que dicha interacción sea posible, el lector debe activar los conocimientos que posee sobre el tema, las experiencias que ha adquirido a lo largo de su vida, el conocimiento que tiene de su lengua materna y la visión del mundo que ha configurado con sus conocimientos y experiencias. La comprensión de un texto o de un discurso oral siempre es un acto interactivo, no un acto unidireccional en el que un emisor comunica algo que debe ser asimilado o entendido por otro. 
+          p.mb-0 Para que dicha interacción sea posible, el lector debe activar los conocimientos que posee sobre el tema, las experiencias que ha adquirido a lo largo de su vida, el conocimiento que tiene de su lengua materna y la visión del mundo que ha configurado con sus conocimientos y experiencias. La comprensión de un texto o de un discurso oral siempre es un acto interactivo, no un acto unidireccional en el que un emisor comunica algo que debe ser asimilado o entendido por otro.
           
     p.mt-4 Para que haya una verdadera comprensión, el texto debe ser interpretado en distintos niveles:
 
@@ -26,7 +26,7 @@
               .circle-verde
                 figure(data-aos="fade-down")
                   img(src='@/assets/curso/tema2/2.svg', alt='Literal', style='width: 80px')
-          h5.mb-0 Literal
+          h5.mb-0 Literal.
 
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         .tarjeta.bg-8.p-4.text-center.h-100
@@ -35,7 +35,7 @@
               .circle-verde
                 figure(data-aos="fade-down")
                   img(src='@/assets/curso/tema2/3.svg', alt='Inferencial', style='width: 80px')
-          h5.mb-0 Inferencial
+          h5.mb-0 Inferencial.
 
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         .tarjeta.bg-2.p-4.text-center.h-100
@@ -44,7 +44,7 @@
               .circle-verde
                 figure(data-aos="fade-down")
                   img(src='@/assets/curso/tema2/4.svg', alt='Crítico valorativo', style='width: 80px')
-          h5.mb-0 Crítico valorativo
+          h5.mb-0 Crítico valorativo.
 
       .col-lg-3.col-md-6
         figure(data-aos="fade-down")

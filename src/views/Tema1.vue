@@ -41,8 +41,7 @@
                   .py-2.px-3
               p.text-center.mb-0 Sintetizar la información en las propias palabras, lo que demuestra comprensión real.
 
-    p.mt-4 Una manera efectiva de verificar la comprensión es mejorar una síntesis propia de lo que se ha leído, ya sea de forma oral o escrita. Esta práctica confirma que la información se ha procesado y comprendido correctamente.
-
+    p.mt-4 Una manera efectiva de verificar la comprensión es expresar con palabras propias lo que se ha leído, ya sea de forma oral o escrita. Esta práctica confirma que la información se ha procesado y comprendido correctamente.
 
 
     .titulo-tres.mt-5: h3 ¿Qué operaciones cognitivas se requieren cuando se busca comprender lo estudiado o leído?
@@ -147,7 +146,7 @@
             | Tener un fin claro y específico.
           li
             i.lista-ul__vineta
-            | Tener experiencia cognitiva con la ejecución de las operaciones del pensamiento.
+            | Tener experiencias cognitivas con la ejercitación de las operaciones del pensamiento. 
           li
             i.lista-ul__vineta
             | Saber organizar y estructurar la información (orden secuencial de ideas).
@@ -156,7 +155,7 @@
             | Ejercitar el lenguaje como instrumento para expresar los pensamientos e ideas.
           li
             i.lista-ul__vineta
-            | Ejercitar la voluntad y la perseverancia para someterse a obstáculos que opone la memoria al evocar lo aprendido.
+            | Ejercitar la voluntad y la perseverancia para someter a los obstáculos que opone la memoria al evocar lo aprendido. 
           li
             i.lista-ul__vineta
             | Lo más importante son las ideas, no las palabras. Poner atención en captar las ideas es lo esencial.
@@ -295,7 +294,7 @@
               .circle-morado
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema1/16.svg', alt='Estructura lógica', style='width: 80px')
-          h4.mb-0 Estructura lógica
+          h4.mb-0 Estructura lógica.
 
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta.clr-paleYellow.p-4.text-center.bg-21
@@ -304,7 +303,7 @@
               .circle-morado
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema1/17.svg', alt='Ideas generales', style='width: 80px')
-          h4.mb-0 Ideas generales
+          h4.mb-0 Ideas generales.
 
       .col-lg-4
         .tarjeta.clr-paleYellow.p-4.text-center.bg-21
@@ -313,7 +312,7 @@
               .circle-morado
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema1/18.svg', alt='Ideas principales', style='width: 80px')
-          h4.mb-0 Ideas principales
+          h4.mb-0 Ideas principales.
 
     p.mt-4 Es fundamental reconocer cuál es la estructura lógica que el autor utiliza en la elaboración de un texto.
 
@@ -410,21 +409,21 @@
                   figure.mb-2(data-aos="zoom-in")
                     img(src='@/assets/curso/tema1/26.svg', alt='Inicio párrafo', style='width: 80px').m-auto
                   p.mb-0
-                    strong Al inicio del párrafo
+                    strong Al inicio del párrafo.
 
               .col-lg-4.mt-lg-0.mt-4
                 .crd.bg-7.bg-r8.p-4.text-center.h100
                   figure.mb-2(data-aos="zoom-in")
                     img(src='@/assets/curso/tema1/27.svg', alt='Parte central', style='width: 80px').m-auto
                   p.mb-0
-                    strong En la parte central del párrafo
+                    strong En la parte central del párrafo.
 
               .col-lg-4.mt-lg-0.mt-4
                 .crd.bg-7.bg-r8.p-4.text-center.h-100
                   figure.mb-2(data-aos="zoom-in")
                     img(src='@/assets/curso/tema1/28.svg', alt='Final párrafo', style='width: 80px').m-auto
                   p.mb-0
-                    strong Al final del párrafo
+                    strong Al final del párrafo.
 
           .col-lg-5.mt-lg-0.mt-4
             .tarjeta.bg-8.p-4
@@ -445,7 +444,7 @@
                 p.mb-0
                   strong Idea al inicio: 
                   | cuando la idea principal se encuentra al principio del párrafo, su identificación resulta directa, ya que el resto del contenido desarrolla o ejemplifica esta idea inicial. Se debe conservar como la propone el experto.
-
+                  
             .col-lg-4.mb-4.mb-lg-0
               .tarjeta.bg-12.p-4.h-100
                 .row.justify-content-center.mb-4
