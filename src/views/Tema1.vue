@@ -443,7 +443,7 @@
                         img(src='@/assets/curso/tema1/29.svg', alt='Bombilla inicio', style='width: 80px')
                 p.mb-0
                   strong Idea al inicio: 
-                  | cuando la idea principal se encuentra al principio del párrafo, su identificación resulta directa, ya que el resto del contenido desarrolla o ejemplifica esta idea inicial. Se debe conservar como la propone el experto.
+                  | cuando la idea principal se encuentra al principio del párrafo, su identificación resulta directa, ya que el resto del contenido desarrolla o ejemplifica esta idea inicial.
                   
             .col-lg-4.mb-4.mb-lg-0
               .tarjeta.bg-12.p-4.h-100
@@ -541,7 +541,7 @@
 
     .row.mb-5.align-items-center
       .col-lg-8.mb-lg-0
-        p.mb-4 Para subrayar de manera efectiva, es importante seguir ciertas pautas que optimicen el aprovechamiento de esta técnica:
+        p.mb-4 Para subrayar de manera efectiva, es importante seguir ciertas pautas que optimizan el aprovechamiento de esta técnica:
 
         ul.lista-ul--color.mb-0.bg-8.bg-r8.p-4
           li.d-flex.align-items-start
